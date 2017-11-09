@@ -7,7 +7,7 @@ This is the readme for HW7.
 I worked with Imran and Srikanth on this assignment. 
 
 
-Assignment 1: Srikanth did the coding for running the month of January and helping to determine the T-Test. I was unable to recieve any feedback from a classmate. I think this is due to ongoing github issues. In the notebook attached to this assignment, I ran the T-Test for the month of July 2017 (HW7_dhi211.ipynb) with some guidance from Srikanth. 
+Assignment 1: Srikanth did the coding for running the month of January and helping to determine the T-Test (HW7_1_JANDATA.ipynb). I was unable to recieve any feedback from a classmate. I think this is due to ongoing github issues. In the notebook attached to this assignment, I ran the T-Test for the month of July 2017 (HW7_dhi211.ipynb) with some guidance from Srikanth. 
 
 
 
