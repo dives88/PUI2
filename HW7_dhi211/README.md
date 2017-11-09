@@ -11,7 +11,7 @@ Assignment 1: Srikanth did the coding for running the month of January and helpi
 
 
 
-Assignment 2: I did most of the write up with Imran helping out and Srikanth providing input. Our document is attached in PDF form, or can be found here: https://www.authorea.com/users/175543/articles/210947-citibike
+Assignment 2: I did most of the write up with Imran helping out and Srikanth providing input. Our document is attached in PDF form, or can be found here: https://www.authorea.com/210947/1TFOO9JcPyG635su70csNw
 
 
 Assingment 3: I worked with Imran and Srikanth on this assignment. 
