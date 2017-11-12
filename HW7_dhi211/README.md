@@ -14,4 +14,4 @@ Assignment 1: Srikanth did the coding for rthe month of January (HW7_1_JANDATA.i
 Assignment 2: I started the write up with Imran finishing it and Srikanth providing input. Our document is attached in PDF form, or can be found here: https://www.authorea.com/210947/1TFOO9JcPyG635su70csNw
 
 
-Assingment 3: I worked with Imran and Srikanth on this assignment. 
+Assingment 3: I worked with Srikanth on this assignment. He did the coding after working on it with Jon, I caught up and got up to speed on this assignment. 
