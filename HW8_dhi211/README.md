@@ -16,4 +16,4 @@ Next, I brought this information into Carto and expressed it as circles with siz
 The map can be found here: https://dhi211.carto.com/builder/1e7786d9-926f-4dd9-9a3e-3297a9a8d18d/embed
 
 
-![Alt text](PlotImage.png)
+![Alt text](PlotImage1.png)
