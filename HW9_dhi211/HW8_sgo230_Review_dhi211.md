@@ -2,6 +2,12 @@
 https://github.com/sgo230/PUI2017_sgo230/tree/master/HW8_sgo230
 
 ![](nyc_small_multiples_viz.png)
+Caption from sgo230: 
+
+"Figure 1: Median rent for November 2011 - September 2017 for 30 select New York City neighborhoods across the five boroughs. Dots on lines represent the maximum and minimum rent for the period covered. Labels beside points show the latest median rent.
+Source: Zillow (https://www.zillow.com/research/data/#rental-data)."
+
+
 
 ### CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
 - This plot is very easy to read. Clearly shows history of median rent prices.
