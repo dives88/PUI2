@@ -1,7 +1,7 @@
 # HW8_sgo230_Review
 https://github.com/sgo230/PUI2017_sgo230/tree/master/HW8_sgo230
 
-![](Cyclist_Fatalities_View.png)
+![](nyc_small_multiples_viz.png)
 
 ### CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
 - This plot is very easy to read. Clearly shows history of median rent prices.
