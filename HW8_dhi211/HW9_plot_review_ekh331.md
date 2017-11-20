@@ -3,6 +3,8 @@
 
 <br>
 The plot: <p>
+  
+  
 ![Alt text](PlotImage1.png)
 
 <p>
