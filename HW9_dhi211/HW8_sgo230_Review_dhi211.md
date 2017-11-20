@@ -10,7 +10,7 @@ Source: Zillow (https://www.zillow.com/research/data/#rental-data)."
 
 
 ### CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
-- This plot is very easy to read. Clearly shows history of median rent prices.
+- This plot is very easy to read. It clearly shows the history of median rent prices.
 - Without a legend, identifying what each color corresponds to took some time to figure out, the same goes for the dots on each plot. The description below the plot clarifies the latter.
 
 [Recommendations]
