@@ -23,3 +23,8 @@ https://github.com/valschi/PUI2017_vjs306/tree/master/HW8_vjs306
 
 [Recommendation] 
 - The heatmap-type display might give the impression that multiple fatalities occured at a given point, when potentially only one fataility occured. Rethinking how the map would account for this could help clarify outliers to the data.
+
+# FBB good
+one important thing: the zoom level is cutting out rgions of NYC that may be relevant to the analysis
+
+10/10
