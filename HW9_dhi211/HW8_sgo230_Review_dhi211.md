@@ -30,3 +30,8 @@ HONESTY: is the plot honestly reproducing the data or is it deforming it, perhap
 
 [Recommendation]
 - Find what the narrative is from this data. Depending on the point you want to make, you may want to thin out how much data is conveyed in order to attract the viewer’s eye to one a specific piece of information.
+
+# FBB good
+I would recommand reducing the space between the plots. the sparcity of the plots makes comparison harder
+
+10/10
